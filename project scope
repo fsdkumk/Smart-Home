@@ -1,5 +1,0 @@
-The scope of this project is to expand the current Smart Home IoT features by adding various sensors and modules to the project which are a WI-FI module called ESP8266 ESP-01s.
-The primary objective is to integrate the smart home with an API called BLYNK, enabling end-users to effortlessly control and monitor their sensors using their smartphone.
-This integration aims to provide easy-access control over the smart home.
-This project will be focused on implementing an user interface to allow end-users to control and monitor the sensors on smart home project via a smartphone.
-Other than that, this project will also aim to make the smart home improve in terms of performance and efficiency.
